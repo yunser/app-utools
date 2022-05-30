@@ -1,0 +1,15 @@
+{
+    "main": "./dist/index.html",
+    "preload": "./dist/main.js",
+    "logo": "logo.png",
+    "features": [
+        {
+            "code": "应用",
+            "explain": "加载应用",
+            "cmds": [
+                "应用",
+                "APP"
+            ]
+        }
+    ]
+}
